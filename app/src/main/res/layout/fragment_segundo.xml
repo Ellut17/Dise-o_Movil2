@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="56dp"
+    android:clipToPadding="false"
+    tools:context=".PrimerFragment">
+
+    <!-- Título Fijo -->
+    <TextView
+        android:id="@+id/textViewTitulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/TituloFutbol"
+        android:textSize="24sp"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:padding="16dp" />
+
+    <!-- ScrollView debajo del título -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/textViewTitulo"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:background="@color/black">
+
+            <!-- Texto general sobre fútbol -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/descripcion_futbol"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <!-- Nuevo Contenedor Horizontal para las Imágenes y el Texto -->
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="20dp">
+
+                <!-- Contenedor Vertical para las Imágenes -->
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <!-- Imagen de Cristiano Ronaldo -->
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="401dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/bicho" />
+
+                    <!-- Imagen de Ronaldo -->
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="401dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/ronaldo" />
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="401dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/siu" />
+
+                </LinearLayout>
+
+                <!-- Texto específico sobre Cristiano Ronaldo al lado derecho -->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:text="@string/descripcion_cr7"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>

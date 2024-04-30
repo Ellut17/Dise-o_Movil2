@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">EluSports</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="fragment_title">Deportes y Más</string>
+    <string name="descripcion_deporte">Los deportes, desde tiempos inmemoriales, han sido una piedra angular en la cultura y la sociedad humana, abarcando una amplia gama de actividades físicas y mentales que no solo entretienen, sino que también ofrecen innumerables beneficios para la salud y el bienestar de las personas de todas las edades. Desde juegos de equipo como el fútbol y el baloncesto hasta deportes individuales como el tenis y la natación, las actividades deportivas fomentan la disciplina, la cooperación y el espíritu competitivo, mientras proporcionan una plataforma para el ejercicio físico y la expresión personal.
+
+Uno de los aspectos más destacados del deporte es su capacidad para unir a las personas. Grandes eventos deportivos como los Juegos Olímpicos y la Copa del Mundo de Fútbol no solo atraen la atención de millones de espectadores de todo el mundo, sino que también promueven un sentido de comunidad y orgullo nacional. Estos eventos ofrecen una oportunidad única para que las naciones muestren su talento y su espíritu competitivo en un escenario global, al tiempo que fomentan un entendimiento y respeto mutuo entre culturas diversas.
+
+En el ámbito de la salud, los beneficios de practicar deportes son vastos y bien documentados. La actividad física regular ayuda a mantener un peso corporal saludable, mejora la función cardiovascular y aumenta la fuerza muscular. Más allá de los beneficios físicos, los deportes también tienen un impacto significativo en la salud mental. Participar en actividades deportivas puede reducir el estrés, mejorar los niveles de ansiedad y depresión y aumentar la autoestima y la confianza en uno mismo.
+
+La educación deportiva juega un papel crucial en el desarrollo de los jóvenes. En las escuelas, los programas deportivos pueden ayudar a los estudiantes a desarrollar habilidades vitales como el liderazgo, el trabajo en equipo y la resiliencia frente a los desafíos. Además, el compromiso con el deporte desde una edad temprana fomenta un estilo de vida activo y saludable que puede continuar en la edad adulta.
+
+A nivel profesional, el mundo del deporte ofrece una carrera vibrante y gratificante para los atletas, entrenadores, fisioterapeutas, y otros profesionales relacionados con el ámbito deportivo. Los atletas profesionales no solo se esfuerzan por alcanzar la excelencia en su campo, sino que también actúan como modelos a seguir para las generaciones más jóvenes, incentivando a más personas a involucrarse en el deporte.
+
+Sin embargo, los deportes no están exentos de desafíos. La presión por obtener resultados puede llevar a problemas como el dopaje y otras formas de trampa, lo cual socava los valores del deporte. Además, el alto costo de algunos deportes y la falta de instalaciones adecuadas pueden limitar la participación en ciertas áreas o comunidades.
+
+La finalidad de EluSports es el mostrarte el contexto de algun deporte en especifico asi como mostrarte a los GOATS de las disciplinas.</string>
+    <string name="instagram_label">Síguenos en Instagram</string>
+
+
+    <string name="TituloFutbol">Futbol</string>
+    <string name="descripcion_futbol">El fútbol, conocido como soccer en algunos países, es un deporte que se juega entre dos equipos de once jugadores cada uno. Es uno de los deportes más populares del mundo, practicado y seguido por millones de personas en todos los continentes. El objetivo del juego es marcar goles introduciendo un balón en la portería del equipo contrario, usando principalmente los pies, aunque también se puede utilizar cualquier parte del cuerpo excepto las manos y los brazos, salvo el portero que sí puede usarlas dentro de su área. /</string>
+    <string name="descripcion_cr7">
+Cristiano Ronaldo y su Impacto en el Fútbol
+Cristiano Ronaldo dos Santos Aveiro, conocido simplemente como Cristiano Ronaldo, es uno de los futbolistas más destacados y reconocidos de la historia. Nacido en Madeira, Portugal, el 5 de febrero de 1985, Ronaldo ha jugado en algunos de los clubes más prestigiosos del mundo, incluyendo el Sporting de Lisboa, Manchester United, Real Madrid y Juventus. Actualmente, vuelve a formar parte del Manchester United.
+    Contribuciones y Legado:
+
+Récords y Títulos: Cristiano Ronaldo es conocido por su impresionante habilidad para marcar goles y su constante superación de récords. Ha ganado múltiples títulos de liga en Inglaterra, España e Italia, además de numerosas Champions League. Su rivalidad con Lionel Messi por el título de mejor jugador del mundo ha sido una de las narrativas más apasionantes del fútbol moderno.
+
+Impacto Comercial: Ronaldo ha sido una figura clave en la comercialización del fútbol moderno. Su imagen se ha utilizado para promocionar todo, desde ropa deportiva hasta productos electrónicos, convirtiéndolo en uno de los deportistas más comercializables y reconocidos a nivel mundial.
+
+Influencia Global: Como figura pública, Ronaldo ha usado su fama para influir positivamente en la sociedad. Ha participado en numerosas campañas de caridad y sensibilización, ayudando a recaudar fondos para causas diversas, desde el alivio de desastres hasta programas de salud infantil.
+
+Innovación en el Entrenamiento: Cristiano ha redefinido lo que significa ser un atleta profesional en el fútbol a través de su enfoque en la nutrición, el entrenamiento y el cuidado mental. Su longevidad en el deporte es testimonio de su disciplina y dedicación, inspirando a jugadores jóvenes a seguir su ejemplo en términos de preparación física y mental.
+    </string>
+
+    <string name="Titulo_basket">"Basketbol"</string>
+    <string name="Descripcion_basket">El baloncesto, inventado por el Dr. James Naismith en 1891 en Springfield, Massachusetts, comenzó como un deporte simple destinado a mantener a los atletas en forma durante el invierno. Desde sus humildes comienzos con cestos de duraznos como canastas, el baloncesto ha evolucionado hasta convertirse en uno de los deportes más populares y espectaculares del mundo. Con la creación de la National Basketball Association (NBA) en 1946, el juego se profesionalizó, y desde entonces ha visto nacer a numerosas leyendas que han dejado una marca indeleble en la historia del deporte.</string>
+    <string name="Lebron">Entre esas figuras destaca LeBron James, un jugador que no solo ha dominado la liga desde su entrada en 2003, sino que también ha transformado el baloncesto con su estilo de juego, liderazgo y activismo fuera de la cancha. LeBron, oriundo de Akron, Ohio, fue la primera selección del draft de la NBA de 2003 por los Cleveland Cavaliers y rápidamente se estableció como uno de los jugadores más talentosos y versátiles de la liga.
+
+Impacto en la Cancha
+LeBron ha sido comparado frecuentemente con Michael Jordan en debates sobre el mejor jugador de todos los tiempos, una prueba de su habilidad y de su impacto en el deporte. Su juego se caracteriza por una combinación única de tamaño, agilidad y inteligencia en la cancha. James puede jugar en casi todas las posiciones, lo que lo hace extremadamente valioso para cualquier equipo. Ha ganado múltiples campeonatos de la NBA con tres equipos diferentes: Miami Heat, Cleveland Cavaliers y Los Angeles Lakers.
+
+Liderazgo y Versatilidad
+LeBron no solo es conocido por su habilidad anotadora, sino también por su visión de juego. Es uno de los mejores pasadores en la historia del baloncesto, lo que le permite hacer mejores a sus compañeros de equipo. Su liderazgo se extiende más allá de las estadísticas; James es un líder vocal en la cancha y en el vestuario, siempre dispuesto a asumir la responsabilidad en los momentos críticos de los partidos.
+
+Fuera de la Cancha
+Fuera de la cancha, LeBron ha sido igualmente influyente. Ha usado su plataforma para abordar problemas sociales, especialmente en la lucha contra la injusticia racial y en la promoción de la educación para los menos privilegiados. Su fundación "LeBron James Family Foundation" ha invertido millones en educación, incluyendo la apertura de su propia escuela, la "I PROMISE School" en Akron, que ayuda a niños en riesgo con programas de educación y apoyo.
+
+Legado
+El legado de LeBron en el baloncesto va más allá de sus logros como jugador. Representa la evolución del atleta moderno que es tanto un líder en la comunidad como un icono en el deporte. En una era donde el atleta se considera también un ciudadano global, LeBron ha utilizado su éxito para influir en la sociedad de manera positiva y significativa.</string>
+
+
+    <string name="TituloVoley">Volleybol</string>
+    <string name="Descripcion_voley">El voleibol fue inventado en 1895 por William G. Morgan, un director de educación física en el YMCA en Holyoke, Massachusetts, Estados Unidos. Originalmente llamado "mintonette", el juego fue diseñado como una mezcla de baloncesto, béisbol, tenis y balonmano, y no era tan exigente físicamente como el baloncesto. Morgan buscaba un deporte adecuado para personas de diversas edades y niveles de condición física. El voleibol rápidamente se popularizó, primero en Estados Unidos y luego en todo el mundo, llegando a ser parte de los programas educativos y de recreación.
+
+El voleibol fue introducido en el programa olímpico en 1964 durante los Juegos Olímpicos de Tokio, lo que marcó un hito importante para el deporte en términos de reconocimiento y crecimiento internacional. Desde entonces, el voleibol ha evolucionado en términos de reglas y estilo de juego, volviéndose más rápido y más táctico.</string>
+    <string name="MelisaVargas">Melissa Vargas, nacida en Cuba en 1999, ha tenido un impacto significativo en el mundo del voleibol desde su adolescencia. Su poderoso estilo de juego y habilidades impresionantes la hicieron destacar desde muy joven en ligas nacionales en Cuba. Vargas es conocida por su potente saque y sus habilidades como atacante, lo que la convierte en una jugadora clave en cualquier equipo.
+
+Debido a diferencias con la federación de voleibol cubana y buscando mejores oportunidades profesionales, Vargas dejó Cuba y continuó su carrera en Europa, donde ha jugado con clubes prominentes como el Fenerbahçe en Turquía. Su presencia en la liga turca, una de las más competitivas del mundo, ha sido notable, siendo una de las jugadoras más destacadas y consistentemente una de las mayores anotadoras.
+
+En el contexto internacional, aunque Melissa no ha participado con la selección cubana en competencias mayores recientes debido a restricciones y su cambio de nacionalidad a turca, su desempeño en clubes ha influido notablemente en cómo se percibe el talento joven en el voleibol. Su éxito ha demostrado que los jugadores jóvenes pueden impactar significativamente en niveles altos de competencia y ha inspirado a muchas jóvenes promesas en el deporte.
+
+En resumen, Melissa Vargas no solo ha impactado el voleibol a través de sus habilidades excepcionales y logros individuales sino también al elevar el nivel de competencia y demostrar el impacto que un talento joven puede tener en el escenario mundial del voleibol.</string>
+
+    <string name="TituloLucha">Lucha Libre</string>
+    <string name="Descripcion_lucha">
+La lucha libre es un deporte de combate y espectáculo que combina atletismo con teatro. En la lucha libre profesional, los participantes (conocidos como luchadores) ejecutan movimientos de lucha coreografiados y dramatizados que incluyen llaves, golpes y saltos, los cuales, aunque están predeterminados en su resultado, requieren habilidad física significativa y pueden ser riesgosos. Las narrativas o tramas que rodean los combates y personajes son centrales para el entretenimiento, agregando elementos de rivalidad, heroísmo, traición y redención.</string>
+    <string name="Tripleh">Impacto de Triple H en la lucha libre:
+
+Triple H, cuyo nombre real es Paul Levesque, es una de las figuras más influyentes en la historia de la lucha libre profesional. Comenzó su carrera en la década de 1990 y ganó prominencia en la World Wrestling Entertainment (WWE), donde se convirtió en uno de los luchadores más exitosos y reconocidos.
+
+Campeonatos y logros: Triple H es un múltiple campeón mundial, habiendo ganado el Campeonato de la WWE y el Campeonato Mundial Pesado varias veces. Su presencia en el ring es dominante y ha participado en numerosos eventos estelares, incluidos WrestleMania y Royal Rumble.
+
+Desarrollo de talento: Más allá de su rol como luchador, Triple H ha sido fundamental en el desarrollo de nuevos talentos. Como ejecutivo de WWE, ha supervisado y promovido el crecimiento de NXT, la marca de desarrollo de WWE, transformándola en una plataforma respetada por sí misma que cultiva futuras estrellas de la lucha libre.
+
+Innovación en el negocio: Triple H ha sido clave en la introducción de nuevas ideas y formatos dentro de la WWE, incluyendo la creación de eventos y programas que han ayudado a expandir la marca WWE a nuevos mercados y audiencias. Su enfoque en la calidad del producto y en la experiencia del espectador ha tenido un impacto duradero en la industria.
+
+Legado e influencia: La influencia de Triple H se extiende más allá de sus logros en el ring, siendo un mentor para muchos y un modelo a seguir en la industria del entretenimiento deportivo. Su legado incluye no solo sus títulos y logros, sino también su contribución al crecimiento y profesionalización de la lucha libre como entretenimiento global.
+
+En resumen, Triple H no solo ha dejado su marca como uno de los grandes luchadores, sino también como una figura clave en la transformación y evolución de la lucha libre profesional hacia un fenómeno de entretenimiento mundial.</string>
+
+
+
+
+
+</resources>
